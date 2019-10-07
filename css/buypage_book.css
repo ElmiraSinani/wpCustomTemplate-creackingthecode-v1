@@ -1,0 +1,243 @@
+
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book {
+  width: 115%;
+  height: 520px;
+}
+
+@media only screen and (max-width: 1025px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book {
+    width: 132%;
+  }
+}
+
+@media only screen and (max-width: 780px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book {
+    width: 85%;
+    height: 365px;
+  }
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-front {
+  width: 345px;
+  height: 520px;
+}
+
+@media only screen and (max-width: 780px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-front {
+    width: 250px;
+    height: 375px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-front {
+    width: 250px;
+    height: 365px;
+  }
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-front .bk-cover {
+  width: 345px;
+  height: 520px;
+}
+
+@media only screen and (max-width: 780px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-front .bk-cover {
+    width: 250px;
+    height: 375px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-front .bk-cover {
+    width: 250px;
+    height: 365px;
+  }
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-back {
+  width: 345px;
+  height: 520px;
+}
+
+@media only screen and (max-width: 780px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-back {
+    width: 250px;
+    height: 375px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-back {
+    width: 250px;
+    height: 365px;
+  }
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-back img {
+  max-height: 520px;
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-left {
+  height: 520px;
+}
+
+@media only screen and (max-width: 780px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-left {
+    height: 375px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-left {
+    height: 365px;
+  }
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-left h2 {
+  width: 455px;
+}
+
+@media only screen and (max-width: 780px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-left h2 {
+    margin-top: -100px;
+  }
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-top {
+  width: 345px;
+}
+
+@media only screen and (max-width: 780px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-top {
+    width: 250px;
+  }
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-right {
+  height: 520px;
+}
+
+@media only screen and (max-width: 1025px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-right {
+    left: 25px;
+  }
+}
+
+@media only screen and (max-width: 780px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-right {
+    height: 375px;
+    left: -70px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-right {
+    height: 355px;
+  }
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-info {
+  margin-top: 550px;
+  width: 345px;
+}
+
+@media only screen and (max-width: 780px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-info {
+    margin-top: 410px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-info {
+    margin-top: 375px;
+    width: 250px;
+  }
+}
+
+@media only screen and (max-width: 1025px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-info .flip-book {
+    left: 68%;
+  }
+}
+
+@media only screen and (max-width: 780px) {
+  .hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-info .flip-book {
+    left: 50%;
+  }
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-right {
+  left: -75px;
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-info .book-rate .star-rating {
+  float: left;
+}
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-book {
+  width: 90%;
+  height: 360px;
+}
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-book .bk-front {
+  width: 239px;
+  height: 320px;
+}
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-book .bk-front .bk-cover {
+  width: 239px;
+  height: 320px;
+  background-size: cover;
+}
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-book .bk-back {
+  width: 239px;
+  height: 320px;
+}
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-book .bk-left {
+  height: 320px;
+}
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-book .bk-left h2 {
+    width: 320px;
+    text-align: center;
+    color: #6A3D29;
+    padding-right: 0;
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-book .bk-top {
+  width: 239px;
+}
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-book .bk-right {
+  height: 350px;
+  left: -80px;
+}
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-info {
+  margin-top: 375px;
+  width: 239px;
+}
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-right {
+  left: -75px;
+}
+

@@ -1,0 +1,101 @@
+
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book {
+    width: 115%;
+    height: 520px;
+}
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-front {
+    width: 90px;
+    height: 130px;
+}
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-front .bk-cover {
+    width: 90px;
+    height: 130px;
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-back {
+        width: 90px;
+    height: 130px;
+}
+
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-back img {
+    max-height: 130px;
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-left {
+    height: 130px;
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-left h2 {
+    width: 90px;
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-top {
+    width: 905px;
+}
+
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-book .bk-right {
+    height: 520px;
+}
+
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-info {
+    margin-top: 550px;
+    width: 345px;
+}
+
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-hightlight ul li .bk-right {
+    left: -75px;
+}
+
+.hight-light-tmp .book-today-hightlight.big-hightlight .book-info .book-rate .star-rating {
+    float: left;
+}
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-book {
+    width: 90px;
+    height: 130px;
+}
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-book .bk-back ,
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-book .bk-front,
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-book .bk-front .bk-cover {
+    width: 90px;
+    height: 130px;
+}
+
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-book .bk-left {
+    height: 130px;
+}
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-book .bk-left h2 {
+    width: 125px;
+}
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-book .bk-top {
+    width: 240px;
+}
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-book .bk-right {
+    height: 130px;
+    left: -80px;
+}
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-info {
+       width: 90px;
+    height: 130px;
+}
+
+.hight-light-tmp .book-today-hightlight .book-hightlight ul li .bk-right {
+    left: -75px;
+}
+
